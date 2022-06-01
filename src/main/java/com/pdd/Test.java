@@ -6,5 +6,6 @@ public class Test {
         System.out.println("niude2");
         System.out.println("niude3");
         System.out.println("git ok");
+        System.out.println("git ok");
     }
 }
